@@ -1,0 +1,8 @@
+{
+  "name": "yct3-y31005",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node verify.cjs"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "reusedSeriesArtwork": true,
+  "prompts": [
+    {
+      "asset": "cover",
+      "prompt": "Use case: ads-marketing. Asset: premium 16:9 educational test catalogue cover for the fifth test in an established ivory and dark jade Chinese listening/reading series. Exact dominant enormous text: “YCT 3 · Y31005”, every character precise, upright refined dark jade typography across the upper half with safe margins, very readable at thumbnail size. Scene: a calm sunlit pale wooden desk, open blank ivory workbook, dark jade over-ear headphones next to the right edge of the workbook, a slim green pencil and delicate bamboo leaves at the upper left. Soft warm morning light, tactile gouache/watercolor paper grain and gentle 3D illustration, ivory and sage palette, welcoming and polished. No other text, no exercise samples, no answer cues, no written Chinese glyphs, no logos or badges. Wide landscape composition intended for a 1200x675 cover, title clear and uncropped.",
+      "transparent": false
+    },
+    {
+      "asset": "paper",
+      "prompt": "Series artwork reused from the approved YCT 3 interface.",
+      "transparent": false
+    },
+    {
+      "asset": "resultsHero",
+      "prompt": "Series artwork reused from the approved YCT 3 interface.",
+      "transparent": true
+    }
+  ]
+}
